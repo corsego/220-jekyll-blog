@@ -33,6 +33,9 @@ permalink: "/:title"
 
 # Build settings
 theme: minima
+header_pages:
+  - newsletter.md
+  - about.md
 plugins:
   - jekyll-feed
 # Exclude from processing.
