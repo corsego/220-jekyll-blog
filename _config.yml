@@ -49,6 +49,21 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-target-blank
+  - jekyll-seo-tag
+  - jekyll-og-image
+
+og_image:
+  output_dir: "assets/images/og"
+  image: "/assets/images/avatar2.jpg"
+  domain: "superails.com"
+  border_bottom:
+    width: 20
+    fill:
+      - "#820C02"
+      - "#A91401"
+      - "#D51F06"
+      - "#DE3F24"
+      - "#EDA895"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
