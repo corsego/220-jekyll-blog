@@ -53,6 +53,8 @@ plugins:
   - jekyll-og-image
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-tagging-related_posts
+
 og_image:
   output_dir: "assets/images/og"
   image: "/assets/images/avatar2.jpg"
