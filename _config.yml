@@ -67,6 +67,9 @@ og_image:
       - "#EDA895"
 github_edit_url: "https://github.com/corsego/220-jekyll-blog/blob/main/"
 
+tag_page_layout: tag_page
+tag_page_dir: tag
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
